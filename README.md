@@ -35,7 +35,8 @@ Customer Trends 🏷️: Observed peak customer hours and days.
 Sales by Region/Category 🏠: Evaluated different segments for better decision-making.
 
 📷 Project Screenshots
-![image](https://github.com/user-attachments/assets/b9b8909a-d6be-4a8e-a934-035a9d2d4eb8)
+![image](https://github.com/user-attachments/assets/39ecdba0-fdb2-408c-9214-395efb7d9520)
+
 
 
 🚀 How to Use
